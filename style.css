@@ -1,0 +1,83 @@
+/* 12
+li:first-child{
+    color: red;
+}
+li:last-child{
+    color: green;
+} */
+/* 13 */
+/* li:nth-child(3){
+    color: red;
+} */
+/* 14 */
+/* li:nth-child(odd){
+    color: red;
+}
+li:nth-child(even){
+    color: green;
+} */
+/* 15 */
+/* li:nth-child(3n){
+    color: red;
+} */
+/* 16 */
+/* li:nth-child(17){
+    color: red;
+} */
+/* 17 */
+/* li:first-child{
+    color: red;
+} */
+/* 18 */
+/* input:checked + label{
+    color: red;
+}
+input:checked + .radio{
+    color: blue;
+} */
+/* 19 */
+/* input:enabled{
+    border: 1px solid green;
+	box-shadow: 0 0 3px green;
+}
+input:disabled{
+    border: 1px solid red;
+	box-shadow: 0 0 3px red;
+} */
+/* 20 */
+/* li{
+    border: 1px solid red;
+	width: 100px;
+}
+li:empty {
+	border: 1px solid blue;
+	width: 100px;
+} */
+/* 21 */
+/* p:not(.test){
+    color: red;
+} */
+/* 22 */
+/* li{
+    color: red;
+}
+li:first-child{
+    color: black;
+} */
+/* 23 */
+/* li{
+    color: red;
+}
+li:nth-child(3){
+    color: black;
+} */
+/* 24 */
+q:lang(de) {
+    quotes: "\201E" "\201C"; 
+}
+q:lang(en) {
+    quotes: "\201C" "\201D"; 
+}
+q:lang(fr){
+    quotes: "\00AB" "\00BB"; 
+}
